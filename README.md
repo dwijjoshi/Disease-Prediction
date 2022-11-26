@@ -69,12 +69,12 @@ We compared the accuracy of the 3 algorithms and found the model which gives the
 ### Anushka Mahajan :
 * Worked on Heart Disease Prediction and Breast Cancer Disease Prediction.
 * Used Decision Tree Model and Logistic Regression.
-* Contributed in PPT
+* Contributed in PPT and Web App.
 
 ### Dwij Joshi :
 * Worked on Diabetes Prediction and Chronic Kidney Disease Prediction.
 * Used KNN and Logistic Regression.
-* Contributed in PPT.
+* Contributed in PPT and Web App.
 
 
 
