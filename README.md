@@ -8,6 +8,7 @@ The models which we have used gives a pretty accurate results on all the dataset
 ## How to run the project
 
 ### Using Web App :
+* Web App Link : https://dwijjoshi-multiple-disease-p-multiple-disease-prediction-3pg0h7.streamlit.app/
 * You can visit this website and select the disease that you want to predict.
 * Then give input to all the datafields and then click on the test results button
 * The result box will give you the output by prediciting that whether a person have that disease or not.
